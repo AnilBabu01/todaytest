@@ -1,0 +1,30 @@
+.inputdiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.formstyel{
+    width: 300px;
+    background: #d2bebe;
+    padding: 13px;
+    border-radius: 5px;
+ 
+    padding-bottom: 26px;
+}
+
+.inputdiv input {
+    margin-top: 5px;
+    
+    height: 25px;
+}
+
+
+.inputdiv input:focus{
+    outline: none;
+}
+.mainformdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 9rem;
+}

@@ -1,0 +1,22 @@
+.navlist{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navlist li a {
+    text-decoration: none;
+    background: #378989;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+ 
+    color: white;
+}
+
+.navstyel{
+    background: springgreen;
+    padding: 1px;
+}
